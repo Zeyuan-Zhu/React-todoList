@@ -1,0 +1,23 @@
+.inputField {
+  background-color: rgb(255, 255, 0);
+}
+
+li:hover {
+  background-color: rgb(255, 251, 0);
+}
+
+input:invalid {
+  border: 2px dashed red;
+}
+
+input:valid {
+  border: 2px solid black;
+}
+
+.false {
+  background-color: rgb(206, 118, 118);
+}
+
+.true {
+  background-color: green;
+}/*# sourceMappingURL=toDoList.css.map */
